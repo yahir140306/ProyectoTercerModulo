@@ -1,0 +1,243 @@
+[
+    {
+        "id": "producto1.1",
+        "titulo": "Barritas energeticas",
+        "imagen": "./IMG/Barritas_energéticas.png",
+        "categoria": {
+            "nombre": "Sumplementos",
+            "id": "Sumplementos"
+        },
+        "precio": 134.50
+    },
+    {
+        "id": "producto1.2",
+        "titulo": "Batidos de reemplazo",
+        "imagen": "./IMG/Batidos_de_reemplazo_de_comidas.png",
+        "categoria": {
+            "nombre": "Sumplementos",
+            "id": "Sumplementos"
+        },
+        "precio": 146.6
+    },
+    {
+        "id": "producto1.3",
+        "titulo": "Colageno",
+        "imagen": "./IMG/Colágeno.png",
+        "categoria": {
+            "nombre": "Sumplementos",
+            "id": "Sumplementos"
+        },
+        "precio": 549.00
+    },
+    {
+        "id": "producto1.4",
+        "titulo": "Glutamina",
+        "imagen": "./IMG/Glutamina.png",
+        "categoria": {
+            "nombre": "Sumplementos",
+            "id": "Sumplementos"
+        },
+        "precio": 649.00
+    },
+    {
+        "id": "producto1.5",
+        "titulo": "Hierro",
+        "imagen": "./IMG/Hierro.png",
+        "categoria": {
+            "nombre": "Sumplementos",
+            "id": "Sumplementos"
+        },
+        "precio": 489.00
+    },
+    {
+        "id": "producto1.6",
+        "titulo": "Multivitaminicos",
+        "imagen": "./IMG/Multivitamínicos.png",
+        "categoria": {
+            "nombre": "Sumplementos",
+            "id": "Sumplementos"
+        },
+        "precio": 336.75
+    },
+    {
+        "id": "producto1.7",
+        "titulo": "Omega",
+        "imagen": "./IMG/Omega_3.png",
+        "categoria": {
+            "nombre": "Sumplementos",
+            "id": "Sumplementos"
+        },
+        "precio": 680.00
+    },
+    {
+        "id": "producto1.8",
+        "titulo": "Prebioticos",
+        "imagen": "./IMG/Prebióticos.png",
+        "categoria": {
+            "nombre": "Sumplementos",
+            "id": "Sumplementos"
+        },
+        "precio": 380.00
+    },
+    {
+        "id": "producto1.9",
+        "titulo": "Probioticos",
+        "imagen": "./IMG/Probióticos.png",
+        "categoria": {
+            "nombre": "Sumplementos",
+            "id": "Sumplementos"
+        },
+        "precio": 419.00
+    },
+    {
+        "id": "producto1.10",
+        "titulo": "Proteinas en polvo",
+        "imagen": "./IMG/ProteinaEnPolvo.jpg",
+        "categoria": {
+            "nombre": "Sumplementos",
+            "id": "Sumplementos"
+        },
+        "precio": 725.00
+    }, 
+    {
+        "id":"producto1.11",
+        "titulo":"Equipo de medicion de grasa corporal",
+        "imagen":"./IMG/MedicionGrasaCorporal.jpg",
+        "categoria": {
+            "nombre":"Medico",
+            "id":"Medico"
+        },
+        "precio": 39.99
+    },
+    {
+        "id":"producto1.12",
+        "titulo":"Pelota de pilates",
+        "imagen":"./IMG/PelotaDePilares.jpg",
+        "categoria": {
+            "nombre":"Medico",
+            "id":"Medico"
+        },
+        "precio": 19.99
+    },
+    {
+        "id":"producto1.13",
+        "titulo":"Electroestimulador muscular",
+        "imagen":"./IMG/ElectroestimuladorMuscular.jpg",
+        "categoria": {
+            "nombre":"Medico",
+            "id":"Medico"
+        },
+        "precio": 59.99
+    },
+    {
+        "id":"producto1.14",
+        "titulo":"Camiseta de compresion",
+        "imagen":"./IMG/CamisetaDeCompresion.jpg",
+        "categoria": {
+            "nombre":"Medico",
+            "id":"Medico"
+        },
+        "precio": 39.99
+    },
+    {
+        "id":"producto1.15",
+        "titulo":"Mancuernas ajustables",
+        "imagen":"./IMG/MancuernasAjustables.jpg",
+        "categoria": {
+            "nombre":"Medico",
+            "id":"Medico"
+        },
+        "precio": 149.99
+    },
+    {
+        "id":"producto1.16",
+        "titulo":"Monitor de ritmo cardiaco",
+        "imagen":"./IMG/MonitorDeRitmoCardiaco.jpg",
+        "categoria": {
+            "nombre":"Medico",
+            "id":"Medico"
+        },
+        "precio": 79.99
+    },
+    {
+        "id":"producto1.17",
+        "titulo":"Batidora de proteinas",
+        "imagen":"./IMG/BatidoraDeProteinas.jpg",
+        "categoria": {
+            "nombre":"Medico",
+            "id":"Medico"
+        },
+        "precio": 14.99
+    },
+    {
+        "id":"producto1.18",
+        "titulo":"Monitor de actividad",
+        "imagen":"./IMG/MonitorDeActividad.jpg",
+        "categoria": {
+            "nombre":"Medico",
+            "id":"Medico"
+        },
+        "precio": 99.99
+    },
+    {
+        "id":"producto1.19",
+        "titulo":"Guantes de levantamiento de pesas",
+        "imagen":"./IMG/Guantes.jpg",
+        "categoria": {
+            "nombre":"Medico",
+            "id":"Medico"
+        },
+        "precio": 19.99
+    },
+    {
+        "id":"producto1.20",
+        "titulo":"Cinta de correr plegable.",
+        "imagen":"./IMG/CintaDeCorrer.jpg",
+        "categoria": {
+            "nombre":"Medico",
+            "id":"Medico"
+        },
+        "precio": 799.99
+    },
+    {
+        "id":"producto1.21",
+        "titulo":"Rodillo de espuma",
+        "imagen":"./IMG/RodilloDeEspuma.jpg",
+        "categoria": {
+            "nombre":"Ejercicio",
+            "id":"Ejercicio"
+        },
+        "precio": 29.99
+    },
+    {
+        "id":"producto1.22",
+        "titulo":"Calcentines de compresion",
+        "imagen":"./IMG/CalcetinesDeCompresion.jpg",
+        "categoria": {
+            "nombre":"Ejercicio",
+            "id":"Ejercicio"
+        },
+        "precio": 799.99
+    },
+    {
+        "id":"producto1.23",
+        "titulo":"Pesa rusa",
+        "imagen":"./IMG/PesaRusa.jpg",
+        "categoria": {
+            "nombre":"Ejercicio",
+            "id":"Ejercicio"
+        },
+        "precio": 24.99
+    },
+    {
+        "id":"producto1.24",
+        "titulo":"Leggings de compresion",
+        "imagen":"./IMG/legingsDeCompresion.jpg",
+        "categoria": {
+            "nombre":"Ejercicio",
+            "id":"Ejercicio"
+        },
+        "precio": 59.99
+    }
+
+]
