@@ -2,7 +2,7 @@
     {
         "id": "producto1.1",
         "titulo": "Barritas energeticas",
-        "imagen": "./IMG/Barritas_energéticas.png",
+        "imagen": "./Images/Productos/Sumplementos/Barritas_energéticas.png",
         "categoria": {
             "nombre": "Sumplementos",
             "id": "Sumplementos"
@@ -12,7 +12,7 @@
     {
         "id": "producto1.2",
         "titulo": "Batidos de reemplazo",
-        "imagen": "./IMG/Batidos_de_reemplazo_de_comidas.png",
+        "imagen": "./Images/Productos/Sumplementos/Batidos_de_reemplazo_de_comidas.png",
         "categoria": {
             "nombre": "Sumplementos",
             "id": "Sumplementos"
@@ -22,7 +22,7 @@
     {
         "id": "producto1.3",
         "titulo": "Colageno",
-        "imagen": "./IMG/Colágeno.png",
+        "imagen": "./Images/Productos/Sumplementos/Colágeno.png",
         "categoria": {
             "nombre": "Sumplementos",
             "id": "Sumplementos"
@@ -32,7 +32,7 @@
     {
         "id": "producto1.4",
         "titulo": "Glutamina",
-        "imagen": "./IMG/Glutamina.png",
+        "imagen": "./Images/Productos/Sumplementos/Glutamina.png",
         "categoria": {
             "nombre": "Sumplementos",
             "id": "Sumplementos"
@@ -42,7 +42,7 @@
     {
         "id": "producto1.5",
         "titulo": "Hierro",
-        "imagen": "./IMG/Hierro.png",
+        "imagen": "./Images/Productos/Sumplementos/Hierro.png",
         "categoria": {
             "nombre": "Sumplementos",
             "id": "Sumplementos"
@@ -52,7 +52,7 @@
     {
         "id": "producto1.6",
         "titulo": "Multivitaminicos",
-        "imagen": "./IMG/Multivitamínicos.png",
+        "imagen": "./Images/Productos/Sumplementos/Multivitamínicos.png",
         "categoria": {
             "nombre": "Sumplementos",
             "id": "Sumplementos"
@@ -62,7 +62,7 @@
     {
         "id": "producto1.7",
         "titulo": "Omega",
-        "imagen": "./IMG/Omega_3.png",
+        "imagen": "./Images/Productos/Sumplementos/Omega_3.png",
         "categoria": {
             "nombre": "Sumplementos",
             "id": "Sumplementos"
@@ -72,7 +72,7 @@
     {
         "id": "producto1.8",
         "titulo": "Prebioticos",
-        "imagen": "./IMG/Prebióticos.png",
+        "imagen": "./Images/Productos/Sumplementos/Prebióticos.png",
         "categoria": {
             "nombre": "Sumplementos",
             "id": "Sumplementos"
@@ -82,7 +82,7 @@
     {
         "id": "producto1.9",
         "titulo": "Probioticos",
-        "imagen": "./IMG/Probióticos.png",
+        "imagen": "./Images/Productos/Sumplementos/Probióticos.png",
         "categoria": {
             "nombre": "Sumplementos",
             "id": "Sumplementos"
@@ -92,7 +92,7 @@
     {
         "id": "producto1.10",
         "titulo": "Proteinas en polvo",
-        "imagen": "./IMG/ProteinaEnPolvo.jpg",
+        "imagen": "./Images/Productos/Sumplementos/ProteinaEnPolvo.jpg",
         "categoria": {
             "nombre": "Sumplementos",
             "id": "Sumplementos"
@@ -102,7 +102,7 @@
     {
         "id":"producto1.11",
         "titulo":"Equipo de medicion de grasa corporal",
-        "imagen":"./IMG/MedicionGrasaCorporal.jpg",
+        "imagen":"./Images/Productos/Medico/MedicionGrasaCorporal.jpg",
         "categoria": {
             "nombre":"Medico",
             "id":"Medico"
@@ -112,7 +112,7 @@
     {
         "id":"producto1.12",
         "titulo":"Pelota de pilates",
-        "imagen":"./IMG/PelotaDePilares.jpg",
+        "imagen":"./Images/Productos/Medico/PelotaDePilares.jpg",
         "categoria": {
             "nombre":"Medico",
             "id":"Medico"
@@ -122,7 +122,7 @@
     {
         "id":"producto1.13",
         "titulo":"Electroestimulador muscular",
-        "imagen":"./IMG/ElectroestimuladorMuscular.jpg",
+        "imagen":"./Images/Productos/Medico/ElectroestimuladorMuscular.jpg",
         "categoria": {
             "nombre":"Medico",
             "id":"Medico"
@@ -132,7 +132,7 @@
     {
         "id":"producto1.14",
         "titulo":"Camiseta de compresion",
-        "imagen":"./IMG/CamisetaDeCompresion.jpg",
+        "imagen":"./Images/Productos/Medico/CamisetaDeCompresion.jpg",
         "categoria": {
             "nombre":"Medico",
             "id":"Medico"
@@ -142,7 +142,7 @@
     {
         "id":"producto1.15",
         "titulo":"Mancuernas ajustables",
-        "imagen":"./IMG/MancuernasAjustables.jpg",
+        "imagen":"./Images/Productos/Medico/MancuernasAjustables.jpg",
         "categoria": {
             "nombre":"Medico",
             "id":"Medico"
@@ -152,7 +152,7 @@
     {
         "id":"producto1.16",
         "titulo":"Monitor de ritmo cardiaco",
-        "imagen":"./IMG/MonitorDeRitmoCardiaco.jpg",
+        "imagen":"./Images/Productos/Medico/MonitorDeRitmoCardiaco.jpg",
         "categoria": {
             "nombre":"Medico",
             "id":"Medico"
@@ -162,7 +162,7 @@
     {
         "id":"producto1.17",
         "titulo":"Batidora de proteinas",
-        "imagen":"./IMG/BatidoraDeProteinas.jpg",
+        "imagen":"./Images/Productos/Medico/BatidoraDeProteinas.jpg",
         "categoria": {
             "nombre":"Medico",
             "id":"Medico"
@@ -172,7 +172,7 @@
     {
         "id":"producto1.18",
         "titulo":"Monitor de actividad",
-        "imagen":"./IMG/MonitorDeActividad.jpg",
+        "imagen":"./Images/Productos/Medico/MonitorDeActividad.jpg",
         "categoria": {
             "nombre":"Medico",
             "id":"Medico"
@@ -182,7 +182,7 @@
     {
         "id":"producto1.19",
         "titulo":"Guantes de levantamiento de pesas",
-        "imagen":"./IMG/Guantes.jpg",
+        "imagen":"./Images/Productos/Medico/Guantes.jpg",
         "categoria": {
             "nombre":"Medico",
             "id":"Medico"
@@ -192,7 +192,7 @@
     {
         "id":"producto1.20",
         "titulo":"Cinta de correr plegable.",
-        "imagen":"./IMG/CintaDeCorrer.jpg",
+        "imagen":"./Images/Productos/Medico/CintaDeCorrer.jpg",
         "categoria": {
             "nombre":"Medico",
             "id":"Medico"
@@ -202,7 +202,7 @@
     {
         "id":"producto1.21",
         "titulo":"Rodillo de espuma",
-        "imagen":"./IMG/RodilloDeEspuma.jpg",
+        "imagen":"./Images/Productos/Ejercicio/RodilloDeEspuma.jpg",
         "categoria": {
             "nombre":"Ejercicio",
             "id":"Ejercicio"
@@ -212,7 +212,7 @@
     {
         "id":"producto1.22",
         "titulo":"Calcentines de compresion",
-        "imagen":"./IMG/CalcetinesDeCompresion.jpg",
+        "imagen":"./Images/Productos/Ejercicio/CalcetinesDeCompresion.jpg",
         "categoria": {
             "nombre":"Ejercicio",
             "id":"Ejercicio"
@@ -222,7 +222,7 @@
     {
         "id":"producto1.23",
         "titulo":"Pesa rusa",
-        "imagen":"./IMG/PesaRusa.jpg",
+        "imagen":"./Images/Productos/Ejercicio/PesaRusa.jpg",
         "categoria": {
             "nombre":"Ejercicio",
             "id":"Ejercicio"
@@ -232,12 +232,221 @@
     {
         "id":"producto1.24",
         "titulo":"Leggings de compresion",
-        "imagen":"./IMG/legingsDeCompresion.jpg",
+        "imagen":"./Images/Productos/Ejercicio/legingsDeCompresion.jpg",
         "categoria": {
             "nombre":"Ejercicio",
             "id":"Ejercicio"
         },
         "precio": 59.99
+    },
+    {
+        "id":"producto1.25",
+        "titulo":"Bowflex Xceed Home",
+        "imagen":"./Images/Productos/Ejercicio/Bowflex.png",
+        "categoria": {
+            "nombre":"Ejercicio",
+            "id":"Ejercicio"
+        },
+        "precio": 16499
+    },
+    {
+        "id":"producto1.26",
+        "titulo":"Estacion de gimnasio",
+        "imagen":"./Images/Productos/Ejercicio/EstacionDeGimnasio.png",
+        "categoria": {
+            "nombre":"Ejercicio",
+            "id":"Ejercicio"
+        },
+        "precio": 5685.30
+    },
+    {
+        "id":"producto1.27",
+        "titulo":"Estacion de gimnasio power legs",
+        "imagen":"./Images/Productos/Ejercicio/EstacionDeGimnasioPowerLegs.png",
+        "categoria": {
+            "nombre":"Ejercicio",
+            "id":"Ejercicio"
+        },
+        "precio": 3999
+    },
+    {
+        "id":"producto1.28",
+        "titulo":"Estacion de sentadilla y pecho",
+        "imagen":"./Images/Productos/Ejercicio/EstacionDeSentadillaAndPecho.png",
+        "categoria": {
+            "nombre":"Ejercicio",
+            "id":"Ejercicio"
+        },
+        "precio": 1799
+    },
+    {
+        "id":"producto1.29",
+        "titulo":"Forma de fitnes",
+        "imagen":"./Images/Productos/Ejercicio/FormaDeFitness.png",
+        "categoria": {
+            "nombre":"Ejercicio",
+            "id":"Ejercicio"
+        },
+        "precio": 332
+    },
+    {
+        "id":"producto1.30",
+        "titulo":"Juego de entramiento con rodillo cuerda",
+        "imagen":"./Images/Productos/Ejercicio/JuegoDeEntramientoConRodilloCuerdaYBarrassPushUp.png",
+        "categoria": {
+            "nombre":"Ejercicio",
+            "id":"Ejercicio"
+        },
+        "precio": 349
+    },
+    {
+        "id":"producto1.31",
+        "titulo":"5 piezas conjuntos deportivos para mujer",
+        "imagen":"./Images/Productos/Ropa/5piezasConjuntos.png",
+        "categoria": {
+            "nombre":"Ropa",
+            "id":"Ropa"
+        },
+        "precio": 699
+    },
+    {
+        "id":"producto1.32",
+        "titulo":"Conjunto deportivo de hombre para correr",
+        "imagen":"./Images/Productos/Ropa/ConjuntoDeportivoDeHombre.png",
+        "categoria": {
+            "nombre":"Ropa",
+            "id":"Ropa"
+        },
+        "precio": 509.37
+    },
+    {
+        "id":"producto1.33",
+        "titulo":"Short Wilson Running - Masculino",
+        "imagen":"./Images/Productos/Ropa/shortWilsonRunnig.png",
+        "categoria": {
+            "nombre":"Ropa",
+            "id":"Ropa"
+        },
+        "precio": 190
+    },
+    {
+        "id":"producto1.34",
+        "titulo":"Sudadera con capucha para hombre",
+        "imagen":"./Images/Productos/Ropa/sudaderaConCapucha.png",
+        "categoria": {
+            "nombre":"Ropa",
+            "id":"Ropa"
+        },
+        "precio": 554.58
+    },
+    {
+        "id":"producto1.35",
+        "titulo":"Conjunto de ropa deportiva de 2 piezas para mujer",
+        "imagen":"./Images/Productos/Ropa/conjuntoDeRopaDeportivaDe2PiezasMujer.png",
+        "categoria": {
+            "nombre":"Ropa",
+            "id":"Ropa"
+        },
+        "precio": 651.95
+    },
+    {
+        "id":"producto1.36",
+        "titulo":"Traje deportivo fat man",
+        "imagen":"./Images/Productos/Ropa/trajeDeportivoFatMan.png",
+        "categoria": {
+            "nombre":"Ropa",
+            "id":"Ropa"
+        },
+        "precio": 723.24
+    },
+    {
+        "id":"producto1.37",
+        "titulo":"Traje deportivo fat man",
+        "imagen":"./Images/Productos/Ropa/trajeDeportivoFatMan.png",
+        "categoria": {
+            "nombre":"Ropa",
+            "id":"Ropa"
+        },
+        "precio": 723.24
+    },
+    {
+        "id":"producto1.38",
+        "titulo":"BUYJYA Conjunto de chandal deportivo",
+        "imagen":"./Images/Productos/Ropa/BUYJYA.png",
+        "categoria": {
+            "nombre":"Ropa",
+            "id":"Ropa"
+        },
+        "precio": 705.78
+    },
+    {
+        "id":"producto1.39",
+        "titulo":"Conjunto de ropa deportiva de manga corta",
+        "imagen":"./Images/Productos/Ropa/conjuntoDeRopaDeportivaDeManga.png",
+        "categoria": {
+            "nombre":"Ropa",
+            "id":"Ropa"
+        },
+        "precio": 436
+    },
+    {
+        "id":"producto1.40",
+        "titulo":"Conjunto de ropa deportiva para hombre para correr",
+        "imagen":"./Images/Productos/Ropa/ConjuntoDeRopaDeportivaParaHombreParaCorrer.png",
+        "categoria": {
+            "nombre":"Ropa",
+            "id":"Ropa"
+        },
+        "precio": 797.63
+    },
+    {
+        "id":"producto1.41",
+        "titulo":"Ludardy Almohada Cervical - Ortopedica",
+        "imagen":"./Images/Productos/Otros/Almohada.png",
+        "categoria": {
+            "nombre":"Otros",
+            "id":"Otros"
+        },
+        "precio": 369
+    },
+    {
+        "id":"producto1.42",
+        "titulo":"Aceites Esenciales Grado Terapeutico",
+        "imagen":"./Images/Productos/Otros/AceitesEsenciales.png",
+        "categoria": {
+            "nombre":"Otros",
+            "id":"Otros"
+        },
+        "precio": 266.67
+    },
+    {
+        "id":"producto1.43",
+        "titulo":"Colgate",
+        "imagen":"./Images/Productos/Otros/colgate.png",
+        "categoria": {
+            "nombre":"Otros",
+            "id":"Otros"
+        },
+        "precio": 65
+    },
+    {
+        "id":"producto1.44",
+        "titulo":"Enjuage Bucal",
+        "imagen":"./Images/Productos/Otros/enguajeBucal.png",
+        "categoria": {
+            "nombre":"Otros",
+            "id":"Otros"
+        },
+        "precio": 90
+    },
+    {
+        "id":"producto1.45",
+        "titulo":"",
+        "imagen":"./Images/Productos/Otros/Ligadura.png",
+        "categoria": {
+            "nombre":"Otros",
+            "id":"Otros"
+        },
+        "precio": 138
     }
-
 ]

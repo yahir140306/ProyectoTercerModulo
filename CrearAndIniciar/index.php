@@ -24,21 +24,30 @@ if (isset($_SESSION['user_id'])) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Crear | Iniciar | Cuenta</title>
-    <link rel="stylesheet" href="./Diseño/style.css">
+    <link rel="shortcut icon" href="./Diseño/Images/saludIcon.svg" type="image/x-icon">
+    <link rel="stylesheet" href="./Diseño/index.css">
 </head>
 
 <body>
     <?php require 'Parciales/header.php' ?>
 
-    <?php if (!empty($user)): ?>
-        <br>Welcome. <?= $user['email'] ?>
-        <br>You area successfully logged in
-        <a href="./logout.php">Pagina</a>
-    <?php else: ?>
-        <h1>Por favor iniciar o crea una cuenta</h1>
-        <a href="./login.php">Iniciar</a>or
+    <main class="menu1">
+        <?php if (!empty($user)): ?>
+        <img src="./Diseño/Images/salud.svg" alt="logo">
+        <br>Bienvenido.
+        <?= $user['email'] ?>
+        <br>Has Iniciado session correctamente
+        <br>
+        <br>
+        <a href="./logout.php">Ir a Pagina</a>
+        <?php else: ?>
+        <img src="./Diseño/Images/salud.svg" alt="logo">
+        <h1>Por favor iniciar o crea una cuenta.</h1>
+        <a href="./login.php">Iniciar</a>
+        or
         <a href="./singup.php">Crear</a>
-    <?php endif; ?>
+        <?php endif; ?>
+    </main>
 </body>
 
 </html>

@@ -30,22 +30,29 @@ if (!empty($_POST['email']) && !empty($_POST['password'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./Diseño/style.css">
-    <title>Login</title>
+    <link rel="shortcut icon" href="./Diseño/Images/saludIcon.svg" type="image/x-icon">
+    <link rel="stylesheet" href="./Diseño/index.css">
+    <title>Iniciar Sesion</title>
 </head>
 
 <body>
     <?php require 'Parciales/header.php' ?>
-    <h1>Login</h1>
-    <span>or <a href="./singup.php">SignUp</a></span>
+    <h1>Iniciar Sesion</h1>
+    <img src="./Diseño/Images/salud.svg" alt="logo">
+    <br>
+    <span>or <a href="./singup.php">Registrarte</a></span>
     <?php if (!empty($message)): ?>
-        <p><?= $message ?></p>
+    <p>
+        <?= $message ?>
+    </p>
     <?php endif; ?>
-    <form action="login.php" method="POST">
-        <input type="text" name="email" placeholder="Correo Electronico">
-        <input type="password" name="password" placeholder="Contraseña">
-        <input type="submit" value="Submit">
-    </form>
+    <main class="menu2">
+        <form action="login.php" method="POST">
+            <input type="text" name="email" placeholder="Correo Electronico">
+            <input type="password" name="password" placeholder="Contraseña">
+            <input type="submit" value="Iniciar">
+        </form>
+    </main>
 </body>
 
 </html>

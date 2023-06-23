@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
     <link rel="stylesheet" href="./style.css">
-    <link rel="stylesheet" href="./styleMovil.css">
-    <link rel="shortcut icon" href="./IMG/salud.svg" type="image/x-icon">
+    <link rel="stylesheet" href="./slider.css">
+    <link rel="shortcut icon" href="./Images/Images/saludIcon.svg" type="image/x-icon">
     <title>NutriSalud</title>
 </head>
 
@@ -19,8 +19,8 @@
         <aside>
             </button>
             <header>
-                <img src="./IMG/salud.svg" alt="logo" class="logoIMG">
-                <h1 class="logo">NutriSalud</h1>
+                <img src="./Images/Images/saludIcon.svg" alt="logo" class="logoIMG">
+                <h1 class="logo"><a href="https://github.com/yahir140306/ProyectoTercerModulo">NutriSalud</a></h1>
                 <button class="close-menu" id="close-menu">
                     <i class="bi bi-x"></i>
             </header>
@@ -42,10 +42,10 @@
                                     cardiovascular</button>
                             </li>
                             <li>
-                                <button id="ropa" class="boton-menu boton-categoria">Ropa deportiva</button>
+                                <button id="Ropa" class="boton-menu boton-categoria">Ropa deportiva</button>
                             </li>
                             <li>
-                                <button id="otros" class="boton-menu boton-categoria"> Otros.</button>
+                                <button id="Otros" class="boton-menu boton-categoria"> Otros.</button>
                             </li>
                         </ul>
                     </li>
@@ -75,21 +75,96 @@
                 </ul>
             </nav>
         </aside>
+
         <main>
             <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
             <div id="contenedor-productos" class="contenedor-productos">
                 <!-- Esto se va a rellenar con JS -->
             </div>
         </main>
+        <section class="cuerpo">
+            <div class="container">
+
+                <!-- Full-width images with number text -->
+                <div class="mySlides">
+                    <div class="numbertext">1 / 6</div>
+                    <img src="./Images/slider/imagen1.jpg" style="width:100%">
+                </div>
+
+                <div class="mySlides">
+                    <div class="numbertext">2 / 6</div>
+                    <img src="./Images/slider/imagen2.jpg" style="width:100%">
+                </div>
+
+                <div class="mySlides">
+                    <div class="numbertext">3 / 6</div>
+                    <img src="./Images/slider/imagen3.jpg" style="width:100%">
+                </div>
+
+                <div class="mySlides">
+                    <div class="numbertext">4 / 6</div>
+                    <img src="./Images/slider/imagen4.jpg" style="width:100%">
+                </div>
+
+                <div class="mySlides">
+                    <div class="numbertext">5 / 6</div>
+                    <img src="./Images/slider/imagen5.jpg" style="width:100%">
+                </div>
+
+                <div class="mySlides">
+                    <div class="numbertext">6 / 6</div>
+                    <img src="./Images/slider/imagen5.jpg" style="width:100%">
+                </div>
+
+                <!-- Next and previous buttons -->
+                <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+                <!-- Image text -->
+                <div class="caption-container">
+                    <p id="caption"></p>
+                </div>
+
+                <!-- Thumbnail images -->
+                <div class="row">
+                    <div class="column">
+                        <img class="demo cursor" src="./Images/slider/imagen1.jpg" style="width:80%"
+                            onclick="currentSlide(1)" alt="">
+                    </div>
+                    <div class="column">
+                        <img class="demo cursor" src="./Images/slider/imagen2.jpg" style="width:80%"
+                            onclick="currentSlide(2)" alt="">
+                    </div>
+                    <div class="column">
+                        <img class="demo cursor" src="./Images/slider/imagen3.jpg" style="width:80%"
+                            onclick="currentSlide(3)" alt="">
+                    </div>
+                    <div class="column">
+                        <img class="demo cursor" src="./Images/slider/imagen4.jpg" style="width:80%"
+                            onclick="currentSlide(4)" alt="">
+                    </div>
+                    <div class="column">
+                        <img class="demo cursor" src="./Images/slider/imagen5.jpg" style="width:80%"
+                            onclick="currentSlide(5)" alt="">
+                    </div>
+                    <div class="column">
+                        <img class="demo cursor" src="./Images/slider/imagen5.jpg" style="width:80%"
+                            onclick="currentSlide(6)" alt="">
+                    </div>
+                </div>
+            </div>
+        </section>
     </div>
     <footer>
         <p>Hecho: Juan Yahir Isidro Cervantes. - Flavio de Jesus</p>
         <p>Programacion - CBTis No. 5</p>
         <p>16 - Junio - 2023 | HTML - CSS - JS - PHP - MYSQL</p>
     </footer>
+
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
     <script src="./main.js"></script>
     <script src="./menu.js"></script>
+    <script src="./slider.js"></script>
 </body>
 
 </html>
